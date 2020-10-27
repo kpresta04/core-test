@@ -1,0 +1,13 @@
+/home/kp/projects/core-test/bin/Debug/netcoreapp3.1/core-test
+/home/kp/projects/core-test/bin/Debug/netcoreapp3.1/core-test.deps.json
+/home/kp/projects/core-test/bin/Debug/netcoreapp3.1/core-test.runtimeconfig.json
+/home/kp/projects/core-test/bin/Debug/netcoreapp3.1/core-test.runtimeconfig.dev.json
+/home/kp/projects/core-test/bin/Debug/netcoreapp3.1/core-test.dll
+/home/kp/projects/core-test/bin/Debug/netcoreapp3.1/core-test.pdb
+/home/kp/projects/core-test/obj/Debug/netcoreapp3.1/core-test.csprojAssemblyReference.cache
+/home/kp/projects/core-test/obj/Debug/netcoreapp3.1/core-test.AssemblyInfoInputs.cache
+/home/kp/projects/core-test/obj/Debug/netcoreapp3.1/core-test.AssemblyInfo.cs
+/home/kp/projects/core-test/obj/Debug/netcoreapp3.1/core-test.csproj.CoreCompileInputs.cache
+/home/kp/projects/core-test/obj/Debug/netcoreapp3.1/core-test.dll
+/home/kp/projects/core-test/obj/Debug/netcoreapp3.1/core-test.pdb
+/home/kp/projects/core-test/obj/Debug/netcoreapp3.1/core-test.genruntimeconfig.cache
